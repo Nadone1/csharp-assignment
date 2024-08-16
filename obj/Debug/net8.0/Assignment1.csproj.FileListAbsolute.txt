@@ -54,3 +54,4 @@ C:\Users\Acamoah Donkor\OneDrive\Documents\c3assignment\assignment\obj\Debug\net
 C:\Users\Acamoah Donkor\OneDrive\Documents\c3assignment\assignment\obj\Debug\net8.0\Assignment1.pdb
 C:\Users\Acamoah Donkor\OneDrive\Documents\c3assignment\assignment\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
 C:\Users\Acamoah Donkor\OneDrive\Documents\c3assignment\assignment\obj\Debug\net8.0\ref\Assignment1.dll
+C:\Users\Acamoah Donkor\OneDrive\Documents\c3assignment\assignment\obj\Debug\net8.0\Assignment1.sourcelink.json
